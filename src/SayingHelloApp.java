@@ -9,6 +9,7 @@ public class SayingHelloApp {
 
         String greetings = "Hello " + name + ", nice to meet you!";
         System.out.println(greetings);
+        scan.close();
 
 
     }
